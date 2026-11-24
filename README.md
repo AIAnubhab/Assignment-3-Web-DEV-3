@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Assignment 3: Inventory and Data Management System
 
 ## 📌 Assignment Details
@@ -70,3 +71,6 @@ Course: Web Dev III
 Assignment: 3 - Inventory and Data Management System
 
 ---
+=======
+# Assignment-3-Web-DEV-3
+>>>>>>> origin/main
